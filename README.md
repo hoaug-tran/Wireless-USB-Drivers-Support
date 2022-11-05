@@ -1,4 +1,4 @@
-# Một số USB Wifi sử dụng được đã được test:
+# Một số USB Wifi sử dụng được đã được test
 
 - Alfa AWUS036AC
 - Alfa AWUS036ACH
